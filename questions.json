@@ -1,0 +1,177 @@
+[
+    {
+        "topic": "India",
+        "question": "India's UPI processes more transactions per month than some countries have people. What does UPI stand for?",
+        "options": ["Unified Payments Interface", "Universal Purchase Index", "United Public Infrastructure", "Unified Purchase Identity"],
+        "answer": "Unified Payments Interface",
+        "time_limit": 15
+    },
+    {
+        "topic": "India",
+        "question": "Mumbai's dabbawalas deliver lunchboxes with an error rate lower than most courier companies. True or false: they use no digital tracking system to do it.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 12
+    },
+    {
+        "topic": "India",
+        "question": "Which Indian city is nicknamed the 'Silicon Valley of India' and definitely will not let you forget it?",
+        "options": ["Bengaluru", "Hyderabad", "Pune", "Chennai"],
+        "answer": "Bengaluru",
+        "time_limit": 12
+    },
+    {
+        "topic": "India",
+        "question": "India launched a mission to the far side of the Moon and stuck the landing on the first try. What was it called?",
+        "options": ["Chandrayaan-3", "Mangalyaan-2", "Gaganyaan-1", "Aditya-L2"],
+        "answer": "Chandrayaan-3",
+        "time_limit": 15
+    },
+    {
+        "topic": "India",
+        "question": "True or false: the Indian Railways network is large enough that it employs more people than the population of several small nations.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 12
+    },
+    {
+        "topic": "Keralam",
+        "question": "Kerala's literacy rate is famously high, near enough to 100% that it's basically a flex. What's it best known for topping nationally?",
+        "options": ["Literacy rate", "Land area", "Population", "Number of airports"],
+        "answer": "Literacy rate",
+        "time_limit": 15
+    },
+    {
+        "topic": "Keralam",
+        "question": "Kerala is often called 'God's Own Country.' Which network of lagoons and canals is the state most famous for cruising through?",
+        "options": ["Backwaters", "Fjords", "Deltas", "Estuary Falls"],
+        "answer": "Backwaters",
+        "time_limit": 12
+    },
+    {
+        "topic": "Keralam",
+        "question": "True or false: Kerala's Onam festival features a boat race with snake-shaped boats over 100 feet long.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 12
+    },
+    {
+        "topic": "Keralam",
+        "question": "Which martial art, considered one of the oldest fighting systems in the world, originated in Kerala?",
+        "options": ["Kalaripayattu", "Silambam", "Gatka", "Mardani Khel"],
+        "answer": "Kalaripayattu",
+        "time_limit": 15
+    },
+    {
+        "topic": "Keralam",
+        "question": "Kerala runs on a unique co-operative model for this beloved breakfast-adjacent dairy product served with almost everything. What is it?",
+        "options": ["Toddy", "Payasam", "Appam", "Puttu"],
+        "answer": "Toddy",
+        "time_limit": 15
+    },
+    {
+        "topic": "Gaming",
+        "question": "Which game holds the record for best-selling video game of all time, built one block at a time?",
+        "options": ["Minecraft", "Tetris", "GTA V", "Wii Sports"],
+        "answer": "Minecraft",
+        "time_limit": 12
+    },
+    {
+        "topic": "Gaming",
+        "question": "True or false: 'GG' in gaming slang stands for 'Great Game' and is used regardless of whether the game was actually great.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 10
+    },
+    {
+        "topic": "Gaming",
+        "question": "Which esports title is basically 5 people yelling 'ward the river' at each other for 40 minutes straight?",
+        "options": ["League of Legends", "Overwatch", "Apex Legends", "Rocket League"],
+        "answer": "League of Legends",
+        "time_limit": 12
+    },
+    {
+        "topic": "Gaming",
+        "question": "Elden Ring was developed with a legendary fantasy author co-writing the lore. Who was it?",
+        "options": ["George R. R. Martin", "Brandon Sanderson", "Neil Gaiman", "Patrick Rothfuss"],
+        "answer": "George R. R. Martin",
+        "time_limit": 15
+    },
+    {
+        "topic": "Gaming",
+        "question": "True or false: Among Us was released in 2018 but only exploded in popularity two years later.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 12
+    },
+    {
+        "topic": "Geography",
+        "question": "Which is the only country that lies in all four hemispheres at once?",
+        "options": ["Kiribati", "Indonesia", "Ecuador", "Brazil"],
+        "answer": "Kiribati",
+        "time_limit": 15
+    },
+    {
+        "topic": "Geography",
+        "question": "True or false: Russia has more time zones than any other country on Earth.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 10
+    },
+    {
+        "topic": "Geography",
+        "question": "This African lake is so alkaline it can literally calcify birds that land in it. Which lake?",
+        "options": ["Lake Natron", "Lake Victoria", "Lake Tanganyika", "Lake Malawi"],
+        "answer": "Lake Natron",
+        "time_limit": 15
+    },
+    {
+        "topic": "Geography",
+        "question": "Which country is both the largest by area and spans 11 time zones?",
+        "options": ["Russia", "Canada", "China", "USA"],
+        "answer": "Russia",
+        "time_limit": 12
+    },
+    {
+        "topic": "Geography",
+        "question": "True or false: Point Nemo, the 'oceanic pole of inaccessibility,' is closer to astronauts on the ISS than to any human on land.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 15
+    },
+    {
+        "topic": "Sports",
+        "question": "In cricket, what's it called when a bowler takes 3 wickets on 3 consecutive deliveries?",
+        "options": ["Hat-trick", "Triple strike", "Golden trio", "Perfect over"],
+        "answer": "Hat-trick",
+        "time_limit": 12
+    },
+    {
+        "topic": "Sports",
+        "question": "True or false: a marathon's exact distance of 26.2 miles was standardized because of the 1908 London Olympics and a royal family's viewing preference.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 15
+    },
+    {
+        "topic": "Sports",
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "options": ["Brazil", "Germany", "Italy", "Argentina"],
+        "answer": "Brazil",
+        "time_limit": 12
+    },
+    {
+        "topic": "Sports",
+        "question": "In Formula 1, what do you call the pit crew's magic trick of changing all 4 tires in under 2 seconds?",
+        "options": ["Pit stop", "Tire swap", "Box box", "Quick change"],
+        "answer": "Pit stop",
+        "time_limit": 12
+    },
+    {
+        "topic": "Sports",
+        "question": "True or false: Usain Bolt set his 100m world record while visibly celebrating before actually crossing the finish line.",
+        "options": ["True", "False"],
+        "answer": "True",
+        "time_limit": 15
+    }
+]
